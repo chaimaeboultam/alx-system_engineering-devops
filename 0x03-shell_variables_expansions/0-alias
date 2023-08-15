@@ -1,2 +1,9 @@
 #!/bin/bash
-alias ls= "rm *"
+
+# Script to create an alias
+# Alias Name: ls
+# Alias Value: rm *
+
+alias ls="rm *"
+
+echo "Alias 'ls' has been created with the value 'rm *'"

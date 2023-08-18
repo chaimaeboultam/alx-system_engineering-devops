@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -la display the content of a directory with long format and display the hidden files" > "ls_cwd_content"
+ls -la > ls_cwd_content
